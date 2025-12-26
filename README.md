@@ -1,5 +1,20 @@
 # 🚀 Glassmorphism Pro Calculator
 
+## 🌐 Live Demo
+
+Experience the calculator in your browser:  
+**[👉 Click here to open the Live Demo](https://mohammedalhaj14.github.io/glass-calculator/)**
+
+![Deployment Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=github)
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammedalhaj14/glass-calculator/main/preview.gif" alt="Calculator Preview" width="600">
+</p>
+
 A sleek, modern web-based calculator built with **HTML5**, **CSS3 (Grid & Variables)**, and **Object-Oriented JavaScript**. This project features a "Glassmorphism" UI, dynamic light/dark mode, and a persistent calculation history.
 
 ## ✨ Features
